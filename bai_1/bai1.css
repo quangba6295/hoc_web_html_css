@@ -1,21 +1,17 @@
+#menu {
+      float: right;
+      
+}
 #logo {
-    height: 100px;
-    width : 300px;
-
+  width:600px; 
+  margin:0 auto;
+}
+#input {
+  height: 30px;
+  width: 400px;
+  
 }
 #search {
-    height: 50px;
-    width: 500px;
-    margin-left:30%;
-    margin-top: 25%;
-}
-
-#first {
-  position: absolute;
-  width: 300px;
-  height: 200px;
-  z-index: 15;
-  top: 50%;
-  left: 50%;
-  margin: -100px 0 0 -150px;
+  width:400px;
+  margin:0 auto;
 }
